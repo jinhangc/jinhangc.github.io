@@ -13,3 +13,5 @@ I am generally interested in
 - High-dimensional estimation and inference
 - Statistical decision-making (Dynamic Pricing, RL)
 - Generative models, LLM
+
+I enjoy badminton, tennis, hiking, etc. Feel free to reach out if you want to chat research or other topics!
