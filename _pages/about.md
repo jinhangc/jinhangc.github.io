@@ -12,4 +12,4 @@ I am a fifth-year PhD student in the department of [Operations Research and Fina
 I am generally interested in
 - High-dimensional estimation and inference
 - Statistical decision-making (Dynamic Pricing, RL)
-- Generative modeling
+- Generative models, LLM
