@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Home"
+title                    : "Jinhang Chai"
 title_separator          : "-"
 name                     : &name "Jinhang Chai"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "jinhangc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Jinhang Chai"
   pronouns         : # example: "his/him"  
   bio              : ""
