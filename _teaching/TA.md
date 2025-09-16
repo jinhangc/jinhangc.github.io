@@ -22,5 +22,5 @@ location: "Princeton, NJ"
 *2023 Spring, 2024 Fall*
 
 
-**ORF363 Computing and Optimization for (Lecture)**  
-*2024 Fall*
+**ORF363 Computing and Optimization for the Physical and Social Sciences**  
+*2024 Spring*
