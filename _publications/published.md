@@ -12,7 +12,7 @@ venue: 'Various Journals'
 
 **Structured Matrix Learning under Arbitrary Entrywise Dependence and Estimation of Markov Transition Kernel**  
 *With Jianqing Fan*  
-Annals of Statistics
+Annals of Statistics (2025)
 
 **Transition Transfer Q-Learning for Composite Markov Decision Processes**  
 *With Elynn Chen, Lin Yang*  
