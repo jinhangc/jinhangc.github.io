@@ -17,5 +17,5 @@ venue: 'Various Platforms'
 *With Yaqi Duan, Jianqing Fan, Kaizheng Wang*
 
 **Neural Distribution Regression**
-*With Jianqing Fan, Yihong Gu
+*With Jianqing Fan, Yihong Gu*
 
