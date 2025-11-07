@@ -16,3 +16,6 @@ venue: 'Various Platforms'
 **Localized exploration in contextual dynamic pricing achieves dimension-free regret**  
 *With Yaqi Duan, Jianqing Fan, Kaizheng Wang*
 
+**Neural Distribution Regression**
+*With Jianqing Fan, Yihong Gu
+
