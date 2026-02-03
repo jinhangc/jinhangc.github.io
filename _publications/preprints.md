@@ -19,3 +19,9 @@ venue: 'Various Platforms'
 **Neural Distribution Regression**
 *With Jianqing Fan, Yihong Gu*
 
+**Low-Rank Plus Sparse Matrix Transfer Learning under Growing Representations and Ambient Dimensions**
+*With Xuyuan Liu, Elynn Chen, Yujun Yan*
+
+**Optimistic Transfer under Task Shift via Bellman Alignment**
+*With Enpei Zhang, Elynn Chen, Yujun Yan*
+
