@@ -19,6 +19,12 @@ venue: 'Various Platforms'
 **Neural Distribution Regression**
 *With Jianqing Fan, Yihong Gu*
 
+**Optimal Semiparametric Dynamic Pricing with Feature Diversity**
+*With Yaqi Duan, Jianqing Fan, Kaizheng Wang*
+
+**SMART Fine-tuning Factor Augmented Neural Lasso**
+*With Jianqing Fan, Cheng Gao, Qishuo Yin*
+
 **Low-Rank Plus Sparse Matrix Transfer Learning under Growing Representations and Ambient Dimensions**
 *With Xuyuan Liu, Elynn Chen, Yujun Yan*
 
