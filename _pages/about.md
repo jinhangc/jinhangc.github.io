@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fifth-year PhD student in the Department of [Operations Research and Financial Engineering](https://orfe.princeton.edu) at Princeton University, under the supervision of Professor [Jianqing Fan](https://fan.princeton.edu). Before that, I received bachelor's degree from School of Mathematical Sciences at Peking University, with double major in Economics.
+Hi! I am a final-year PhD student in the Department of [Operations Research and Financial Engineering](https://orfe.princeton.edu) at Princeton University, advised by Professor [Jianqing Fan](https://fan.princeton.edu). Before Princeton, I received my bachelor's degree from the School of Mathematical Sciences at Peking University, with a double major in Economics.
 
-I am generally interested in
+My research develops statistical machine learning methods for reliable and adaptive AI, with a focus on heterogeneity, data integration, and sequential decision-making.
+
+I am generally interested in:
 - High-dimensional estimation and inference
-- Statistical decision-making (Dynamic Pricing, RL)
-- Transfer Learning
-- Generative models
+- Statistical decision-making, especially dynamic pricing and reinforcement learning
+- Transfer learning and data integration
+- Post-training and multi-agents
 
-I enjoy tennis, badminton, hiking in my spare time. Feel free to reach out if you want to chat on research or other topics!
+Outside research, I enjoy tennis, badminton, and basketball. Feel free to reach out if you want to chat about research or other topics!

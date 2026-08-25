@@ -11,11 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications %}
-  {% if post.title == "Published" or post.title == "Preprints" %}
-    {{ post.content }}
-  {% endif %}
-{% endfor %}
-
+{% assign featured_papers = site.publications | where: "title", "Featured Papers" | first %}
+{{ featured_papers.content }}
 
 
