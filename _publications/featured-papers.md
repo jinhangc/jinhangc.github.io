@@ -1,6 +1,6 @@
 ---
 title: "Featured Papers"
-collection: publications
+collection: Featured Papers
 category: featured
 permalink: /publication/featured-papers
 excerpt: 'Selected publications and working papers'
@@ -8,9 +8,8 @@ date: 2024-01-01
 venue: 'Selected venues and preprint platforms'
 ---
 
-## Featured Papers
 
-### Reinforcement learning and sequential decision-making
+## Reinforcement learning and sequential decision-making
 
 **Deep Transfer Q-Learning for Offline Non-Stationary Reinforcement Learning**  
 *With Elynn Chen, Jianqing Fan*  
@@ -33,7 +32,7 @@ Preprint
 Preprint
 
 
-### Statistical Learning Theory
+## Statistical Learning Theory
 
 **Structured Matrix Learning under Arbitrary Entrywise Dependence and Estimation of Markov Transition Kernel**  
 *With Jianqing Fan*  
@@ -43,7 +42,7 @@ Annals of Statistics (2025)
 *With Jianqing Fan, Yihong Gu*  
 Preprint
 
-### Transfer Learning
+## Transfer Learning
 
 **SMART Fine-tuning Factor Augmented Neural Lasso**  
 *With Jianqing Fan, Cheng Gao, Qishuo Yin*  

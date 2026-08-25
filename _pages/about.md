@@ -17,4 +17,6 @@ I am generally interested in:
 - Transfer learning and data integration
 - Post-training and multi-agents
 
+Email: jhchai [at] princeton [dot] edu
+
 Outside research, I enjoy tennis, badminton, and basketball. Feel free to reach out if you want to chat about research or other topics!

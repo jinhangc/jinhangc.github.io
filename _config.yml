@@ -29,7 +29,7 @@ author:
   location         : # "Earth"
   employer         : "Princeton University"
   uri              : # URL
-  email            : "jhchai@princeton.edu" 
+  # email            : "jhchai@princeton.edu" 
 
   # Academic websites
   #academia         : # URL
