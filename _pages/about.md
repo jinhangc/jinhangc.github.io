@@ -13,9 +13,9 @@ My research develops statistical machine learning methods for reliable and adapt
 
 I am generally interested in:
 - High-dimensional estimation and inference
-- Statistical decision-making, especially dynamic pricing and reinforcement learning
+- Statistical decision-making, reinforcement learning and dynamic pricing
 - Transfer learning and data integration
-- Post-training and multi-agents
+- Post-training
 
 Email: jhchai [at] princeton [dot] edu
 
