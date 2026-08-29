@@ -26,15 +26,15 @@ author:
   name             : "Jinhang Chai"
   pronouns         : # example: "his/him"  
   bio              : ""
-  location         : # "Earth"
-  employer         : "Princeton University"
+  location         : "Princeton, NJ"
+  employer         : 
   uri              : # URL
   # email            : "jhchai@princeton.edu" 
 
   # Academic websites
   #academia         : # URL
   #arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar    :  "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=Uwm1_AMAAAAJ"
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
